@@ -1,12 +1,14 @@
+
+
+
 {
-  "name": "webrnov",
+  "name": "webrenov",
   "version": "1.0.0",
-  "description": "A tool for renovating websites and assembling bots with GPT.",
+  "description": "A package for renovating websites",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "author": "barki mustapha @akaday",
+  "license": "ISC"
 }
